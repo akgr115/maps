@@ -53,6 +53,7 @@ Well, to put it simply, it's a mod that makes the map *just* Europe, however the
 
 ![E](https://github.com/akgr115/myeverythings/blob/gh-pages/Hoi4%20mod%20basic%20resources/fianlly.png?raw=true)
 
+If anyone sees this and wants to help just use these and then send it to me
 
 [Province Template](https://github.com/akgr115/myeverythings/blob/gh-pages/Hoi4%20mod%20basic%20resources/Province%20Template.png?raw=true) 
 
