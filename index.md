@@ -34,14 +34,14 @@ I'm currently working on more OTL (irl historical maps) pieces.
 [Axis Victory](https://github.com/akgr115/maps/blob/gh-pages/Axis%20Victory.png?raw=true)
   I know that this is very very very complicated but just take it in. It's one of the most detailed maps I've ever made lmao. It's an alternate timeline in which a (very unfortunate) Axis victory occurs in WW2. Alot of European nations are either allied to or indirectly controlled by Germany. You can also see africa is basically just split up between the three main Axis powers in this world (Spain, Germany, Italy) with the exception of some free African states in West Africa. It's pretty high quality imo but could use some work.
   
-## Code
+# Code
 This is going to be showing any code that I found useful enough to archive.
 
 
-## Hoi4 mod
+# Hoi4 mod
 This is going to be where I keep everything for my hoi4 mod
 
-# What is this mod for?
+## What is this mod for?
 Well, to put it simply, it's a mod that makes the map *just* Europe, however the provinces are multiplied alot. It is using custom made provinces. There will be alot of them. This is what I have so far (I haven't worked on it in over a year so I'm gonna have to look through the resources again and begin working again).
 
 ![E](https://github.com/akgr115/myeverythings/blob/gh-pages/Hoi4%20mod%20basic%20resources/fianlly.png?raw=true)
