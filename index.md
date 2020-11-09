@@ -1,6 +1,6 @@
 # Homepage
 The homepage will store the lots of stuff:
-  - maps I've made so far. There is also a second page with resources I've used.
+  -maps I've made so far. There is also a second page with resources I've used.
   
   -Code I felt I should archive
   
