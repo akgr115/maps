@@ -1,8 +1,14 @@
-## Homepage
+### Homepage
 The homepage will store the maps I've made so far alone. There is also a second page with resources I've used.
 
 ## Maps
 These maps are going to be in chronological order.
+
+# OTL
+
+
+# Misc
+
 
 ```markdown
 Syntax highlighted code block
