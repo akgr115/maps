@@ -25,7 +25,7 @@ I'm currently working on more OTL (irl historical maps) pieces.
 
 
 [Unnamed map](https://github.com/akgr115/maps/blob/gh-pages/My%20maps/map.png?raw=true)
-  This one was sometime between 1870 and 1930, I know a lot happened between there but its somewhere in between it (remember this is alternate history). I don't really remember the lore on this one either nor what it was for.
+  This one was sometime between 1870 and 1930, I know a lot happened between there but its somewhere in between it (remember this is alternate history). I don't really remember the lore on this one either nor what it was for. Also, I'm just going to clear something up here and now: See all those lines in the countries? And how the map looks different from some of the rest? Well, they are provinces, not lines in the country. Province maps. Basically you can make rough drafts or low effort versions of maps by just using the fill tool to fill in nations rather then going through the trouble of drawing all the borders. I used this when I didn't know how to actually draw countries.
 
 
 [Furry Domination Map](https://github.com/akgr115/maps/blob/gh-pages/My%20maps/Furry_Domination_Map.png?raw=true)
