@@ -53,7 +53,7 @@ Well, to put it simply, it's a mod that makes the map *just* Europe, however the
 
 ![E](https://github.com/akgr115/myeverythings/blob/gh-pages/Hoi4%20mod%20basic%20resources/fianlly.png?raw=true)
 
-If anyone sees this and wants to help just use these and then send it to me
+If anyone sees this and wants to help just use these and then send it to me. For the province colors, cause the way hoi4 works every province needs to have it's own color. Just use a random color generator online, thats what I did.
 
 [Province Template](https://github.com/akgr115/myeverythings/blob/gh-pages/Hoi4%20mod%20basic%20resources/Province%20Template.png?raw=true) 
 
