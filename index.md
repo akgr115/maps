@@ -25,9 +25,9 @@ I'm currently working on more OTL (irl historical maps) pieces.
 
 
 [Unnamed map](https://github.com/akgr115/maps/blob/gh-pages/My%20maps/map.png?raw=true)
-  This one was sometime between 1870 and 1930, I know a lot happened between there but its somewhere in between it (remember this is alternate history). I don't really remember the lore on this one either nor what it was for. Also, I'm just going to clear something up here and now: See all those lines in the countries? And how the map looks different from some of the rest? Well, they are provinces, not lines in the country. Province maps. Basically you can make rough drafts or low effort versions of maps by just using the fill tool to fill in nations rather then going through the trouble of drawing all the borders. I used this when I didn't know how to actually draw countries.
-
-
+  This one was sometime between 1870 and 1930, I know a lot happened between there but its somewhere in between it (remember this is alternate history). I don't really remember the lore on this one either nor what it was for. Also, I'm just going to clear something up here and now: See all those lines in the countries? And how the map looks different from some of the rest? Well, they are provinces, not lines in the country. Province maps. Basically you can make rough drafts or low effort versions of maps by just using the fill tool to fill in nations rather then going through the trouble of drawing all the borders. I used this when I didn't know how to actually draw countries, So some of them are going to be made that way.
+  
+  
 [Furry Domination Map](https://github.com/akgr115/maps/blob/gh-pages/My%20maps/Furry_Domination_Map.png?raw=true)
   LMAOOO ok ok ok I remember this haha, You can read the description on the side but to explain further I used [this](https://www.furmap.net/) in order to make the map, and the lore was that furries took over the world and then you had to be one of the anti-furry nations and take the world back and "save humanity" it was 7th grade ok don't blame me. Unironically though, the map isn't too bad, it's super clean and its one of the only times I used a sidebar to explain things.
 
