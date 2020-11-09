@@ -1,5 +1,8 @@
 # Homepage
-The homepage will store the maps I've made so far alone. There is also a second page with resources I've used.
+The homepage will store the lots of stuff:
+  - maps I've made so far. There is also a second page with resources I've used.
+  -Code I felt I should archive
+  -my hoi4 mod
 
 ## Maps
 This part will show you the maps I have made throughout the years, both Historical and Alternate maps.
