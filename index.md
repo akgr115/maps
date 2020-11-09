@@ -43,8 +43,13 @@ This is going to be where I keep everything for my hoi4 mod
 
 # What is this mod for?
 Well, to put it simply, it's a mod that makes the map *just* Europe, however the provinces are multiplied alot. It is using custom made provinces. There will be alot of them. This is what I have so far (I haven't worked on it in over a year so I'm gonna have to look through the resources again and begin working again).
+
 ![E](https://github.com/akgr115/myeverythings/blob/gh-pages/Hoi4%20mod%20basic%20resources/fianlly.png?raw=true)
 
+
+[Province Template](https://github.com/akgr115/myeverythings/blob/gh-pages/Hoi4%20mod%20basic%20resources/Province%20Template.png?raw=true) 
+
+[Blank Map](https://github.com/akgr115/myeverythings/blob/gh-pages/Hoi4%20mod%20basic%20resources/Blank%20Map%20Template.png?raw=true)
 ```markdown
 Syntax highlighted code block
 
