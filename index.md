@@ -30,7 +30,9 @@ I'm currently working on more OTL (irl historical maps) pieces.
   
 [Furry Domination Map](https://github.com/akgr115/maps/blob/gh-pages/My%20maps/Furry_Domination_Map.png?raw=true)
   LMAOOO ok ok ok I remember this haha, You can read the description on the side but to explain further I used [this](https://www.furmap.net/) in order to make the map, and the lore was that furries took over the world and then you had to be one of the anti-furry nations and take the world back and "save humanity" it was 7th grade ok don't blame me. Unironically though, the map isn't too bad, it's super clean and its one of the only times I used a sidebar to explain things.
-
+  
+[Axis Victory](https://github.com/akgr115/maps/blob/gh-pages/Axis%20Victory.png?raw=true)
+  I know that this is very very very complicated but just take it in. It's one of the most detailed maps I've ever made lmao. It's an alternate timeline in which a (very unfortunate) Axis victory occurs in WW2. Alot of European nations are either allied to or indirectly controlled by Germany. You can also see africa is basically just split up between the three main Axis powers in this world (Spain, Germany, Italy) with the exception of some free African states in West Africa. It's pretty high quality imo but could use some work.
 
 ```markdown
 Syntax highlighted code block
